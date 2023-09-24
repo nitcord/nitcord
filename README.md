@@ -18,6 +18,12 @@ Currently, I'm contributing to the development of [Animality](https://github.com
 - **Description:** Animality is a fun and interactive API that I'm currently working on. Feel free to check it out and contribute!
 - **Tech Stack:** JavaScript, Node.js, Python, Rust, C
 
+### [Clipp](https://github.com/ClippGG)
+- **Description:** Clipp is the best way to share your gaming clips.
+
+### [Fyre](https://github.com/fyre-sh)
+- **Description:** Fyre is a management platform that allows you to gather essential feedback, bug reports, suggestions, and more from your community.
+
 ## 🌱 Interests
 
 - **Computers & Technology**
