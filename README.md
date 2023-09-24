@@ -16,7 +16,7 @@ Currently, I'm contributing to the development of [Animality](https://github.com
 
 ### [Animality](https://github.com/animality-xyz)
 - **Description:** Animality is a fun and interactive API that I'm currently working on. Feel free to check it out and contribute!
-- **Tech Stack:** JavaScript, Node.js, Python, and more.
+- **Tech Stack:** JavaScript, Node.js, Python, Rust, C
 
 ## 🌱 Interests
 
