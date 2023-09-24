@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello, World! 👋 I'm Hamburger
 
-<!--
-**bwrbur/bwrbur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full Stack Developer with an interest in computers and technology. I specialize in JavaScript (Node.js) and Python.
 
-Here are some ideas to get you started:
+Currently, I'm contributing to the development of [Animality](https://github.com/animality-xyz).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- **Languages:** JavaScript (Node.js), Python
+- **Frontend:** HTML, CSS, JavaScript, Tailwind, Next.js
+- **Backend:** Node.js, Express, Fastify
+- **Databases:** MongoDB, PostgreSQL, Supabase
+- **Tools:** Git, Docker
+
+## 🌟 Projects
+
+### [Animality](https://github.com/animality-xyz)
+- **Description:** Animality is a fun and interactive API that I'm currently working on. Feel free to check it out and contribute!
+- **Tech Stack:** JavaScript, Node.js, Python, and more.
+
+## 🌱 Interests
+
+- **Computers & Technology**
+- **Open Source Contribution**
+- **Learning & Growth**
