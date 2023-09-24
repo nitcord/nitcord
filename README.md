@@ -12,7 +12,7 @@ Currently, I'm contributing to the development of [Animality](https://github.com
 - **Databases:** MongoDB, PostgreSQL, Supabase
 - **Tools:** Git, Docker
 
-## 🌟 Projects
+## 🔨 Projects
 
 ### [Animality](https://github.com/animality-xyz)
 - **Description:** Animality is a fun and interactive API that I'm currently working on. Feel free to check it out and contribute!
