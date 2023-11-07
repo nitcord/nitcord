@@ -2,8 +2,6 @@
 
 I'm a passionate Full Stack Developer with an interest in computers and technology. I specialize in JavaScript (Node.js) and Python.
 
-Currently, I'm contributing to the development of [Animality](https://github.com/animality-xyz).
-
 ## 🚀 Skills
 
 - **Languages:** JavaScript (Node.js), Python
