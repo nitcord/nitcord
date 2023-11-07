@@ -8,7 +8,7 @@ I'm a passionate Full Stack Developer with an interest in computers and technolo
 - **Frontend:** HTML, CSS, JavaScript, Tailwind, Next.js
 - **Backend:** Node.js, Express, Fastify
 - **Databases:** MongoDB, PostgreSQL, Supabase
-- **Tools:** Git, Docker
+- **Tools:** Git, Docker, Wrangler
 
 ## 🔨 Projects
 
