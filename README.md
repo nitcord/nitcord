@@ -13,10 +13,10 @@ I'm a Full Stack Developer with an interest in computers and technology. I speci
 ## 🔨 Projects
 
 ### [Animality](https://github.com/animality-xyz)
-Animality is a fun and interactive API that I'm currently working on. Feel free to check it out and contribute!
+Animality is a fun and interactive API that generates images & facts of animals.
 
 ### [Clipp](https://github.com/ClippGG)
-Clipp is the best way to share your gaming clips.
+The best way to share your gaming clips.
 
 ### [Fyre](https://github.com/fyre-sh)
-Fyre is a management platform that allows you to gather essential feedback, bug reports, suggestions, and more from your community.
+A management platform that allows you to gather essential feedback, bug reports, suggestions, and more from your community.
