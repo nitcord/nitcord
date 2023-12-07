@@ -1,6 +1,6 @@
-# Hello, World! 👋 I'm Hamburger
+# Hello! 👋 I'm Hamburger
 
-I'm a passionate Full Stack Developer with an interest in computers and technology. I specialize in JavaScript (Node.js) and Python.
+I'm a Full Stack Developer with an interest in computers and technology. I specialize in JavaScript (Node.js) and Python.
 
 ## 🚀 Skills
 
@@ -21,9 +21,3 @@ I'm a passionate Full Stack Developer with an interest in computers and technolo
 
 ### [Fyre](https://github.com/fyre-sh)
 - **Description:** Fyre is a management platform that allows you to gather essential feedback, bug reports, suggestions, and more from your community.
-
-## 🌱 Interests
-
-- **Computers & Technology**
-- **Open Source Contribution**
-- **Learning & Growth**
