@@ -16,7 +16,7 @@ I'm a Full Stack Developer with an interest in computers and technology. I speci
 Animality is a fun and interactive API that generates images & facts of animals.
 
 ### [Clipp](https://github.com/ClippGG)
-The best way to share your gaming clips.
+A platform that allows you to share your gaming clips.
 
 ### [Fyre](https://github.com/fyre-sh)
 A management platform that allows you to gather essential feedback, bug reports, suggestions, and more from your community.
