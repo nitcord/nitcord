@@ -1,4 +1,4 @@
-# Hello! 👋 I'm 🍔
+# Hello, World! 👋 I'm burger
 
 I'm a Full Stack Developer with an interest in computers and technology. I specialize in JavaScript (Node.js) and Python.
 
