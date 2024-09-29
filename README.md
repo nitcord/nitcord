@@ -7,7 +7,7 @@ I'm a Full Stack Developer with an interest in computers and technology. I speci
 - **Languages:** JavaScript (Node.js), LuaU, C#, C++, VB, Python
 - **Frontend:** HTML, CSS, JavaScript, Tailwind, Next.js, Chakra UI
 - **Backend:** Node.js, Express, Fastify
-- **Databases:** MongoDB, PostgreSQL, Supabase, Redis, D2
+- **Databases:** MongoDB, PostgreSQL, Supabase, Redis, D1
 - **Tools:** Git, Docker, Wrangler, Termius, Cloudflare, Postman
 
 ## 🔨 Projects
